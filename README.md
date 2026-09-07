@@ -1,4 +1,4 @@
-# Clement Marie — Personal research website
+# Clement Marie: Personal research website
 
 **[Visit the website](https://clmrie.github.io/)** · [CV](https://clmrie.github.io/assets/clement-marie-resume.pdf)
 
