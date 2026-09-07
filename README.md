@@ -28,3 +28,8 @@ npx --yes esbuild styles.css --minify --outfile=styles.min.css
 ```
 
 Keep the Google ownership-verification file and meta tag in place when editing.
+
+
+## Personal website
+
+Check out [Clement Marie’s personal website](https://clmrie.github.io/) for my research, projects, and CV.
