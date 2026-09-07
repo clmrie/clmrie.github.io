@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clmrie.github.io/sitemap.xml
